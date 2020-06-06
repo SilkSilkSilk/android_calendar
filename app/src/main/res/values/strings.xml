@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">MyCalendar</string>
+
+    <string-array name="english_week_string_array">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+
+    <string-array name="chinese_week_string_array">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+
+    <string-array name="list_dialog_items">
+        <item>Change week start with sun</item>
+        <item>Change week start with mon</item>
+        <item>Change week start with sat</item>
+        <item>Change select mode：single/default</item>
+        <item>Change month and week view with CustomView</item>
+        <item>MonthViewShowMode：all</item>
+        <item>MonthViewShowMode：only_current</item>
+        <item>MonthViewShowMode：fix</item>
+    </string-array>
+
+    <string-array name="func_dialog_items">
+        <item>Expand CalendarLayout</item>
+        <item>Shrink CalendarLayout</item>
+        <item>scrollToPre</item>
+        <item>scrollToNext</item>
+        <item>scrollToCurrent</item>
+        <item>Limit calendar range</item>
+        <item>Show range</item>
+    </string-array>
+
+    <string name="add_cancel">cancel</string>
+    <string name="add_title">create event</string>
+    <string name="add_ok">save</string>
+    <string name="add_title_hint">title</string>
+    <string name="add_detail_hint">detail</string>
+    <string name="add_all_day">all day</string>
+    <string name="add_lunar">lunar</string>
+    <string name="add_start">start time</string>
+    <string name="add_end">end time</string>
+    <string name="add_color">color</string>
+    <string name="add_repeat">repeat</string>
+    <string name="add_remind">remind</string>
+    <string name="add_account">account</string>
+
+    <string-array name="add_array_repeat">
+        <item>仅一次</item>
+        <item>每天</item>
+        <item>每周</item>
+        <item>每两周</item>
+        <item>每月</item>
+        <item>每年</item>
+    </string-array>
+
+    <string-array name="add_array_remind">
+        <item>日程发生时</item>
+        <item>5分钟前</item>
+        <item>10分钟前</item>
+        <item>30分钟前</item>
+        <item>1小时前</item>
+        <item>2小时前</item>
+        <item>5小时前</item>
+        <item>1天前</item>
+        <item>7天前</item>
+        <item>14天前</item>
+    </string-array>
+    <array name="add_array_remind_int">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+        <item>1440</item>
+        <item>10080</item>
+        <item>20160</item>
+    </array>
+
+    <string name="no_remind">not have remind</string>
+    <string name="color_select">select color</string>
+
+    <string name="setting_account">Choose default account</string>
+    <string name="setting_color">Choose default color</string>
+    <string name="setting_more">more setting:</string>
+</resources>

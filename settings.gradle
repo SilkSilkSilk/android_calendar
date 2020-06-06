@@ -1,0 +1,3 @@
+rootProject.name='mycalendar'
+include ':app', ':calendarview-master', ':niceimageview'
+project(':calendarview-master').projectDir = new File('calendarview')

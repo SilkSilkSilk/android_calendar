@@ -1,0 +1,99 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MyCalendar</string>
+
+    <string-array name="english_week_string_array">
+        <item>日</item>
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+    </string-array>
+
+    <string-array name="chinese_week_string_array">
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+
+    <string-array name="list_dialog_items">
+        <item>周日为周起始</item>
+        <item>周一为周起始</item>
+        <item>周六为周起始</item>
+        <item>更换选择模式：单选/默认</item>
+        <item>热插拔更换周月视图</item>
+        <item>月视图模式：全部显示</item>
+        <item>月视图模式：仅当前月份</item>
+        <item>月视图模式：自动填充</item>
+    </string-array>
+
+    <string-array name="func_dialog_items">
+        <item>展开日历布局</item>
+        <item>收缩日历布局</item>
+        <item>上一页</item>
+        <item>下一页</item>
+        <item>返回今天</item>
+        <item>限制日期范围</item>
+        <item>显示日期范围</item>
+    </string-array>
+
+    <string name="add_cancel">取消</string>
+    <string name="add_title">新建日程</string>
+    <string name="add_ok">保存</string>
+    <string name="add_title_hint">标题</string>
+    <string name="add_detail_hint">详细</string>
+    <string name="add_all_day">全天</string>
+    <string name="add_lunar">农历</string>
+    <string name="add_start">开始</string>
+    <string name="add_end">结束</string>
+    <string name="add_color">颜色</string>
+    <string name="add_repeat">重复</string>
+    <string name="add_remind">提醒</string>
+    <string name="add_account">日历账号</string>
+
+    <string-array name="add_array_repeat">
+        <item>仅一次</item>
+        <item>每天</item>
+        <item>每周</item>
+        <item>每两周</item>
+        <item>每月</item>
+        <item>每年</item>
+    </string-array>
+
+    <string-array name="add_array_remind">
+        <item>日程发生时</item>
+        <item>5分钟前</item>
+        <item>10分钟前</item>
+        <item>30分钟前</item>
+        <item>1小时前</item>
+        <item>2小时前</item>
+        <item>5小时前</item>
+        <item>1天前</item>
+        <item>7天前</item>
+        <item>14天前</item>
+    </string-array>
+    <array name="add_array_remind_int">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+        <item>1440</item>
+        <item>10080</item>
+        <item>20160</item>
+    </array>
+
+    <string name="no_remind">无提醒</string>
+    <string name="color_select">选择颜色</string>
+
+    <string name="setting_account">选择默认账户</string>
+    <string name="setting_color">选择默认颜色</string>
+    <string name="setting_more">更多设置：</string>
+</resources>
