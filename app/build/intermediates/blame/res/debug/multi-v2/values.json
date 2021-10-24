@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\24612\\.gradle\\caches\\transforms-2\\files-2.1\\751db7a1318b05819337e0f8a3319510\\appcompat-1.1.0\\res\\values\\values.xml",
@@ -59,41 +59,60 @@
                     }
                 },
                 {
-                    "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\calendarview\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\values\\attrs.xml",
                     "from": {
-                        "startLines": "2,16,31,45,77,91,111,137,142,151,164,176,185,194,195,196,197,198,199,200,201,202,223",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "100,448,791,1146,1922,2287,2901,3534,3673,3930,4230,4525,4764,4999,5052,5088,5124,5160,5196,5232,5268,5304,6032",
-                        "endLines": "15,30,44,76,90,110,136,141,150,163,175,184,193,194,195,196,197,198,199,200,201,222,329",
-                        "endColumns": "20,19,19,19,19,19,19,19,19,20,19,19,19,52,35,35,35,35,35,35,35,24,24",
-                        "endOffsets": "443,786,1141,1917,2282,2896,3529,3668,3925,4225,4520,4759,4994,5047,5083,5119,5155,5191,5227,5263,5299,6027,10823"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "24",
+                        "endOffsets": "314"
                     },
                     "to": {
-                        "startLines": "55,69,121,135,167,181,201,227,232,241,254,266,275,1112,1117,1120,1161,1167,1168,1169,1170,5607,5628",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1704,2052,3675,4030,4806,5171,5785,6418,6557,6814,7114,7409,7648,58269,58790,59133,66196,66541,66577,66613,66649,349998,350726",
-                        "endLines": "68,83,134,166,180,200,226,231,240,253,265,274,283,1112,1117,1120,1161,1167,1168,1169,1170,5627,5734",
-                        "endColumns": "20,19,19,19,19,19,19,19,19,20,19,19,19,52,35,35,35,35,35,35,35,24,24",
-                        "endOffsets": "2047,2390,4025,4801,5166,5780,6413,6552,6809,7109,7404,7643,7878,58317,58821,59164,66227,66572,66608,66644,66680,350721,355517"
+                        "startLines": "6863",
+                        "startColumns": "4",
+                        "startOffsets": "421842",
+                        "endLines": "6869",
+                        "endColumns": "24",
+                        "endOffsets": "422101"
                     }
                 },
                 {
-                    "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "31,26,27,18,22,11,12,13,14,15,16,17,5,2,3,7,25,23,6,29,20,19,8,24,28,9,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1241,1078,1118,741,907,442,485,528,571,614,657,700,206,55,102,297,1039,952,252,1198,825,787,350,992,1157,401,866",
+                        "endLines": "51,26,27,18,22,11,12,13,14,15,16,17,5,2,3,7,25,23,6,29,20,19,8,24,28,9,21",
+                        "endColumns": "12,39,38,45,44,42,42,42,42,42,42,40,45,46,50,52,38,39,44,41,40,37,50,46,40,39,40",
+                        "endOffsets": "1956,1113,1152,782,947,480,523,566,609,652,695,736,247,97,148,345,1073,987,292,1235,861,820,396,1034,1193,436,902"
+                    },
+                    "to": {
+                        "startLines": "34,502,507,514,521,522,523,524,525,526,527,528,529,530,531,532,533,577,580,581,604,613,620,621,628,629,630",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "984,19055,19414,19979,20389,20434,20477,20520,20563,20606,20649,20692,20733,20779,20826,20877,20930,23938,24113,24158,25569,26198,26647,26698,27152,27193,27233",
+                        "endLines": "54,502,507,514,521,522,523,524,525,526,527,528,529,530,531,532,533,577,580,581,604,613,620,621,628,629,630",
+                        "endColumns": "12,39,38,45,44,42,42,42,42,42,42,40,45,46,50,52,38,39,44,41,40,37,50,46,40,39,40",
+                        "endOffsets": "1699,19090,19448,20020,20429,20472,20515,20558,20601,20644,20687,20728,20774,20821,20872,20925,20964,23973,24153,24195,25605,26231,26693,26740,27188,27228,27269"
+                    }
+                },
+                {
+                    "source": "D:\\Program_summary\\android_program\\mycalendar\\niceimageview\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "12",
-                        "endColumns": "12",
-                        "endOffsets": "585"
+                        "startOffsets": "106",
+                        "endLines": "16",
+                        "endColumns": "24",
+                        "endOffsets": "871"
                     },
                     "to": {
-                        "startLines": "1184",
+                        "startLines": "6804",
                         "startColumns": "4",
-                        "startOffsets": "67689",
-                        "endLines": "1193",
-                        "endColumns": "12",
-                        "endOffsets": "68220"
+                        "startOffsets": "418702",
+                        "endLines": "6817",
+                        "endColumns": "24",
+                        "endOffsets": "419467"
                     }
                 },
                 {
@@ -135,62 +154,7 @@
                     }
                 },
                 {
-                    "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\values\\dimens.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "90,149",
-                        "endColumns": "57,55",
-                        "endOffsets": "143,200"
-                    },
-                    "to": {
-                        "startLines": "710,711",
-                        "startColumns": "4,4",
-                        "startOffsets": "32633,32691",
-                        "endColumns": "57,55",
-                        "endOffsets": "32686,32742"
-                    }
-                },
-                {
-                    "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\values\\attrs.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "8",
-                        "endColumns": "24",
-                        "endOffsets": "314"
-                    },
-                    "to": {
-                        "startLines": "6863",
-                        "startColumns": "4",
-                        "startOffsets": "421842",
-                        "endLines": "6869",
-                        "endColumns": "24",
-                        "endOffsets": "422101"
-                    }
-                },
-                {
-                    "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\niceimageview\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "106",
-                        "endLines": "16",
-                        "endColumns": "24",
-                        "endOffsets": "871"
-                    },
-                    "to": {
-                        "startLines": "6804",
-                        "startColumns": "4",
-                        "startOffsets": "418702",
-                        "endLines": "6817",
-                        "endColumns": "24",
-                        "endOffsets": "419467"
-                    }
-                },
-                {
-                    "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "67,79,58,13,3,34,23,56,49,44,53,48,52,50,46,55,54,51,45,47,1,93,92,95,96,97",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -266,6 +230,44 @@
                     }
                 },
                 {
+                    "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "585"
+                    },
+                    "to": {
+                        "startLines": "1184",
+                        "startColumns": "4",
+                        "startOffsets": "67689",
+                        "endLines": "1193",
+                        "endColumns": "12",
+                        "endOffsets": "68220"
+                    }
+                },
+                {
+                    "source": "D:\\Program_summary\\android_program\\mycalendar\\calendarview\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,16,31,45,77,91,111,137,142,151,164,176,185,194,195,196,197,198,199,200,201,202,223",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,448,791,1146,1922,2287,2901,3534,3673,3930,4230,4525,4764,4999,5052,5088,5124,5160,5196,5232,5268,5304,6032",
+                        "endLines": "15,30,44,76,90,110,136,141,150,163,175,184,193,194,195,196,197,198,199,200,201,222,329",
+                        "endColumns": "20,19,19,19,19,19,19,19,19,20,19,19,19,52,35,35,35,35,35,35,35,24,24",
+                        "endOffsets": "443,786,1141,1917,2282,2896,3529,3668,3925,4225,4520,4759,4994,5047,5083,5119,5155,5191,5227,5263,5299,6027,10823"
+                    },
+                    "to": {
+                        "startLines": "55,69,121,135,167,181,201,227,232,241,254,266,275,1112,1117,1120,1161,1167,1168,1169,1170,5607,5628",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1704,2052,3675,4030,4806,5171,5785,6418,6557,6814,7114,7409,7648,58269,58790,59133,66196,66541,66577,66613,66649,349998,350726",
+                        "endLines": "68,83,134,166,180,200,226,231,240,253,265,274,283,1112,1117,1120,1161,1167,1168,1169,1170,5627,5734",
+                        "endColumns": "20,19,19,19,19,19,19,19,19,20,19,19,19,52,35,35,35,35,35,35,35,24,24",
+                        "endOffsets": "2047,2390,4025,4801,5166,5780,6413,6552,6809,7109,7404,7643,7878,58317,58821,59164,66227,66572,66608,66644,66680,350721,355517"
+                    }
+                },
+                {
                     "source": "C:\\Users\\24612\\.gradle\\caches\\transforms-2\\files-2.1\\10da8c754d199fef9c3b69d326ec9c86\\constraintlayout-1.1.3\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,11,12,13,14,15,19,20,21,22,25,26,29,32,33,34,35,36,39,42,43,44,45,50,53,56,57,58,63,64,65,68,71,72,75,78,81,84,85,88,91,92,97,98,103,106,109,110,111,112,113,114,115,116,117,118,127,128,129,130",
@@ -285,22 +287,20 @@
                     }
                 },
                 {
-                    "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
-                        "startLines": "31,26,27,18,22,11,12,13,14,15,16,17,5,2,3,7,25,23,6,29,20,19,8,24,28,9,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1241,1078,1118,741,907,442,485,528,571,614,657,700,206,55,102,297,1039,952,252,1198,825,787,350,992,1157,401,866",
-                        "endLines": "51,26,27,18,22,11,12,13,14,15,16,17,5,2,3,7,25,23,6,29,20,19,8,24,28,9,21",
-                        "endColumns": "12,39,38,45,44,42,42,42,42,42,42,40,45,46,50,52,38,39,44,41,40,37,50,46,40,39,40",
-                        "endOffsets": "1956,1113,1152,782,947,480,523,566,609,652,695,736,247,97,148,345,1073,987,292,1235,861,820,396,1034,1193,436,902"
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "90,149",
+                        "endColumns": "57,55",
+                        "endOffsets": "143,200"
                     },
                     "to": {
-                        "startLines": "34,502,507,514,521,522,523,524,525,526,527,528,529,530,531,532,533,577,580,581,604,613,620,621,628,629,630",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "984,19055,19414,19979,20389,20434,20477,20520,20563,20606,20649,20692,20733,20779,20826,20877,20930,23938,24113,24158,25569,26198,26647,26698,27152,27193,27233",
-                        "endLines": "54,502,507,514,521,522,523,524,525,526,527,528,529,530,531,532,533,577,580,581,604,613,620,621,628,629,630",
-                        "endColumns": "12,39,38,45,44,42,42,42,42,42,42,40,45,46,50,52,38,39,44,41,40,37,50,46,40,39,40",
-                        "endOffsets": "1699,19090,19448,20020,20429,20472,20515,20558,20601,20644,20687,20728,20774,20821,20872,20925,20964,23973,24153,24195,25605,26231,26693,26740,27188,27228,27269"
+                        "startLines": "710,711",
+                        "startColumns": "4,4",
+                        "startOffsets": "32633,32691",
+                        "endColumns": "57,55",
+                        "endOffsets": "32686,32742"
                     }
                 },
                 {

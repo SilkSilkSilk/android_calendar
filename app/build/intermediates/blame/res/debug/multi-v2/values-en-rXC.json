@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
+            "outputFile": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rXC\\values-en-rXC.xml",
             "map": [
                 {
                     "source": "C:\\Users\\24612\\.gradle\\caches\\transforms-2\\files-2.1\\751db7a1318b05819337e0f8a3319510\\appcompat-1.1.0\\res\\values-en-rXC\\values-en-rXC.xml",

@@ -289,16 +289,17 @@
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
                         android:orientation="vertical">
+
                         <com.shehuan.niv.NiceImageView
                             android:id="@+id/add_color_image"
-                            android:layout_width="32dp"
-                            android:layout_height="32dp"
+                            android:layout_width="23dp"
+                            android:layout_height="20dp"
                             android:layout_gravity="center_horizontal"
+                            android:scaleType="centerInside"
                             app:border_color="#FF7F24"
                             app:border_width="1dp"
                             app:is_circle="true"
-                            android:scaleType="centerInside"
-                            app:is_cover_src="true"/>
+                            app:is_cover_src="true" />
                     </LinearLayout>
                     <Button
                         android:id="@+id/add_color"

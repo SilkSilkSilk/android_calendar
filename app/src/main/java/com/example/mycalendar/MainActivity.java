@@ -251,7 +251,7 @@ public class MainActivity extends BaseActivity implements
                     }
                 }
             } else if (item.dtstart.get(java.util.Calendar.YEAR) == year && (item.dtstart.get(java.util.Calendar.MONTH) + 1 == month)) {    //因为java.util.Calendar.MONTH的月份从0开始，所以这里get数据要用month + 1
-                calendar = getSchemeCalendar(year, month, item.dtstart.get(java.util.Calendar.DATE), item.color, item.title != null ? item.title.substring(0, 1) : "");
+                calendar = getSchemeCalendar(year, month, item.dtstart.get(java.util.Calendar.DATE), item.color, item.title != null && !item.title.isEmpty() ? item.title.substring(0, 1) : "");
                 map.put(calendar.toString(), calendar); //这里的map可能会覆盖，因为toString()是重构的，是年月日的字符串；后面需要读取事件的显示优先级
 
                 StructCalendar structCalendar = item.clone();

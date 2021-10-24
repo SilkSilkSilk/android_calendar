@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rHK\\values-zh-rHK.xml",
+            "outputFile": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rHK\\values-zh-rHK.xml",
             "map": [
                 {
-                    "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\calendarview\\build\\intermediates\\packaged_res\\debug\\values-zh-rHK\\values-zh-rHK.xml",
+                    "source": "D:\\Program_summary\\android_program\\mycalendar\\calendarview\\build\\intermediates\\packaged_res\\debug\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2,16,31,45,77,91,111,137,142,151,164,176,185,186,187,188,189,190,191,192",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne\\values-ne.xml",
+            "outputFile": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne\\values-ne.xml",
             "map": [
                 {
                     "source": "C:\\Users\\24612\\.gradle\\caches\\transforms-2\\files-2.1\\817f5f994f467f8f015ac529db244e2e\\core-1.1.0\\res\\values-ne\\values-ne.xml",

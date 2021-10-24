@@ -1,222 +1,222 @@
 [
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_colorful_logo.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_colorful_logo.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_color_list_item.xml.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\layout\\color_list_item.xml"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_material.xml.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\drawable\\bg_material.xml"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_all_day_press.xml.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\drawable\\add_all_day_press.xml"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_increase.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_increase.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_increase.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_increase.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_all_day_press.xml.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\drawable\\add_all_day_press.xml"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_solar_system.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_solar_system.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_bg_material.xml.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\drawable-v21\\bg_material.xml"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_title_selector.xml.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\drawable\\add_title_selector.xml"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_add_all_day_selector.xml.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\drawable-v21\\add_all_day_selector.xml"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting.xml.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\layout\\activity_setting.xml"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_custom.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_custom.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_tab_logo.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_tab_logo.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_title_selector.xml.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\drawable\\add_title_selector.xml"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_bg_ripple.xml.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\drawable-v21\\bg_ripple.xml"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_colorful_logo.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_colorful_logo.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_range.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_range.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_full.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_full.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_func.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_func.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_calendar.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_calendar.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_index_logo.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_index_logo.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_calendar.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_calendar.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_switch_off_press.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\drawable-v21\\ic_switch_off_press.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_reduce.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_reduce.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_switch_off.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\drawable-v21\\ic_switch_off.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add.xml.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\layout\\activity_add.xml"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_add_all_day_selector.xml.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\drawable-v21\\add_all_day_selector.xml"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_single.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_single.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_simple_logo.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_simple_logo.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_switch_on_press.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\drawable-v21\\ic_switch_on_press.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_flyme_logo.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_flyme_logo.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_switch_on.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\drawable-v21\\ic_switch_on.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_bg_material.xml.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\drawable-v21\\bg_material.xml"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_simple_logo.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_simple_logo.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_setting.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_setting.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_bg_ripple.xml.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\drawable-v21\\bg_ripple.xml"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_switch_on_press.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\drawable-v21\\ic_switch_on_press.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_sun.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_sun.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_single.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_single.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_material.xml.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\drawable\\bg_material.xml"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_ripple.xml.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\drawable\\bg_ripple.xml"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_sun.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_sun.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_full.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_full.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_progress.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_progress.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add.xml.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\layout\\activity_add.xml"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_setting.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_setting.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_flyme_logo.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_flyme_logo.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_clear.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_clear.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_solar_system.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_solar_system.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_switch_off.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\drawable-v21\\ic_switch_off.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_color.xml.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\layout\\activity_color.xml"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_func.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_func.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_ripple.xml.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\drawable\\bg_ripple.xml"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_multi.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_multi.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_reduce.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_reduce.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_switch_on.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\drawable-v21\\ic_switch_on.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_more.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_more.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_event_list_item.xml.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\layout\\event_list_item.xml"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_index_logo.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_index_logo.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_clear.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_clear.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_switch_off_press.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\drawable-v21\\ic_switch_off_press.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_tab_logo.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_tab_logo.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_progress.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_progress.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_more.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_more.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_range.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_range.png"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_multi.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_multi.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_event_list_item.xml.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\layout\\event_list_item.xml"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_color_list_item.xml.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\layout\\color_list_item.xml"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_color.xml.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\layout\\activity_color.xml"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_custom.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_custom.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting.xml.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\layout\\activity_setting.xml"
     },
     {
-        "merged": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "D:\\Program_summary\\GitHub\\android_calendar\\android_calendar\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+        "merged": "D:\\Program_summary\\android_program\\mycalendar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Program_summary\\android_program\\mycalendar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     }
 ]
