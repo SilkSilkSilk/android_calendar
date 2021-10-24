@@ -1,0 +1,73 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.mycalendar"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_CALENDAR" />
+11-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:5:5-72
+11-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:5:22-69
+12    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+12-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:6:5-73
+12-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:6:22-70
+13
+14    <application
+14-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:8:5-25:19
+15        android:allowBackup="false"
+15-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:9:9-36
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.1.0] C:\Users\24612\.gradle\caches\transforms-2\files-2.1\817f5f994f467f8f015ac529db244e2e\core-1.1.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:11:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:12:9-54
+21        android:supportsRtl="true"
+21-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:13:9-35
+22        android:theme="@style/AppTheme" >
+22-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:14:9-40
+23        <activity android:name="com.example.mycalendar.AddView.ColorActivity" />
+23-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:15:9-68
+23-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:15:19-56
+24        <activity android:name="com.example.mycalendar.SettingView.SettingActivity" />
+24-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:16:9-65
+24-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:16:19-62
+25        <activity android:name="com.example.mycalendar.AddView.AddActivity" />
+25-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:17:9-57
+25-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:17:19-54
+26        <activity android:name="com.example.mycalendar.MainActivity" >
+26-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:18:9-24:20
+26-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:18:19-47
+27            <intent-filter>
+27-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:19:13-23:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:20:17-69
+28-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:20:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:22:17-77
+30-->D:\Program_summary\GitHub\android_calendar\android_calendar\app\src\main\AndroidManifest.xml:22:27-74
+31            </intent-filter>
+32        </activity>
+33
+34        <provider
+34-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\24612\.gradle\caches\transforms-2\files-2.1\0221b68947e09d7693351dbcca6c6499\lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+35            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+35-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\24612\.gradle\caches\transforms-2\files-2.1\0221b68947e09d7693351dbcca6c6499\lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+36            android:authorities="com.example.mycalendar.lifecycle-process"
+36-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\24612\.gradle\caches\transforms-2\files-2.1\0221b68947e09d7693351dbcca6c6499\lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+37            android:exported="false"
+37-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\24612\.gradle\caches\transforms-2\files-2.1\0221b68947e09d7693351dbcca6c6499\lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+38            android:multiprocess="true" />
+38-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\24612\.gradle\caches\transforms-2\files-2.1\0221b68947e09d7693351dbcca6c6499\lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+39    </application>
+40
+41</manifest>
